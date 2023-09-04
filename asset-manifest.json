@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zig-zag/static/css/main.566945cc.css",
+    "main.js": "/zig-zag/static/js/main.92bd7698.js",
+    "static/media/branding.png": "/zig-zag/static/media/branding.ff2bc4b78f25ca6135ba.png",
+    "static/media/aboutus.png": "/zig-zag/static/media/aboutus.7f56818b1a731c31e54c.png",
+    "static/media/logo.png": "/zig-zag/static/media/logo.e5c63fed1e169656260c.png",
+    "index.html": "/zig-zag/index.html",
+    "main.566945cc.css.map": "/zig-zag/static/css/main.566945cc.css.map",
+    "main.92bd7698.js.map": "/zig-zag/static/js/main.92bd7698.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566945cc.css",
+    "static/js/main.92bd7698.js"
+  ]
+}
